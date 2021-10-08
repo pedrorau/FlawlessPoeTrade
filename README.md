@@ -15,7 +15,7 @@
 <br/>
 <div align="center">
     <a href="https://www.pathofexile.com">
-        <img src="images/poelogo.png" alt="Logo">
+        <img src="images/poelogov2.png" alt="Logo">
     </a>
 </div>
 
@@ -168,16 +168,16 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!-- Markdown Links & Images -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/pedrorau/FlawlessPoeTrade.svg?style=for-the-badge
 [contributors-url]: https://github.com/pedrorau/FlawlessPoeTrade/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/pedrorau/FlawlessPoeTrade.svg?style=for-the-badge
 [forks-url]: https://github.com/pedrorau/FlawlessPoeTrade/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/pedrorau/FlawlessPoeTrade.svg?style=for-the-badge
 [stars-url]: https://github.com/pedrorau/FlawlessPoeTrade/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/pedrorau/FlawlessPoeTrade.svg?style=for-the-badge
 [issues-url]: https://github.com/pedrorau/FlawlessPoeTrade/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/pedrorau/FlawlessPoeTrade.svg?style=for-the-badge
 [license-url]: https://github.com/pedrorau/FlawlessPoeTrade/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/praudlacruz/
-[product-screenshot]: images/poelogo.png
+[product-screenshot]: images/poelogov2.png
