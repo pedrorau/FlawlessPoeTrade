@@ -1,4 +1,5 @@
 <div id="top"></div>
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -18,6 +19,7 @@
     </a>
 </div>
 
+<br/>
 
 <!-- Table of contents -->
 <details>
